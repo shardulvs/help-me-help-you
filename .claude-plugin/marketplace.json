@@ -1,0 +1,14 @@
+{
+  "name": "help-me-help-you",
+  "owner": {
+    "name": "Shardul Vikram Singh",
+    "url": "https://github.com/shardulvs"
+  },
+  "plugins": [
+    {
+      "name": "help-me-help-you",
+      "source": "./",
+      "description": "grill-me, help-me-review and help-me-understand: skills where the agent asks pick-an-option questions so it can work the way you would."
+    }
+  ]
+}

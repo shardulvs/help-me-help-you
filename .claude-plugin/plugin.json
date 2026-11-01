@@ -1,0 +1,13 @@
+{
+  "name": "help-me-help-you",
+  "version": "1.0.0",
+  "description": "Three skills that turn the agent's questions into quick picks: grill-me (pin down intent before a task), help-me-review (review code as decisions you confirm), help-me-understand (learn material by quiz).",
+  "author": {
+    "name": "Shardul Vikram Singh",
+    "url": "https://github.com/shardulvs"
+  },
+  "homepage": "https://github.com/shardulvs/help-me-help-you",
+  "repository": "https://github.com/shardulvs/help-me-help-you",
+  "license": "MIT",
+  "keywords": ["skills", "interview", "code-review", "learning", "quiz"]
+}
